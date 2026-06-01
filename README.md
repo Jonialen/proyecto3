@@ -25,6 +25,7 @@ El proyecto compara algoritmos que procesan solicitudes sin conocer el futuro co
 - `docs/diseno-proyecto.md`: diseno completo propuesto para implementacion.
 - `docs/informe.md`: informe del proyecto en Markdown.
 - `docs/informe.pdf`: informe generado con `pandoc`.
+- `docs/guion-video.md`: guia breve para grabar el video de entrega.
 - `docs/resultados/`: salidas CLI usadas como respaldo del informe.
 
 ## Uso con uv
