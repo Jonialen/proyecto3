@@ -1,0 +1,9 @@
+{
+  "initial_items": ["A", "B", "C", "D"],
+  "requests": [
+    {"operation": "access", "item": "D"},
+    {"operation": "access", "item": "D"},
+    {"operation": "access", "item": "D"},
+    {"operation": "access", "item": "D"}
+  ]
+}

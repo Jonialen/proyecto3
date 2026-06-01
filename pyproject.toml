@@ -1,0 +1,16 @@
+[project]
+name = "proyecto3-online-algorithms"
+version = "0.1.0"
+description = "Simulation of online algorithms for list update analysis"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0.0",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
